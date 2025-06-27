@@ -1,6 +1,9 @@
 # Node modules
 node_modules/
 
+#Songs
+songs/
+
 # System files
 .DS_Store
 Thumbs.db
