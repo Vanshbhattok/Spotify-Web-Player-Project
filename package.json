@@ -1,0 +1,23 @@
+{
+  "name": "spotify-web-player",
+  "version": "1.0.0",
+  "description": "A Spotify Clone Web Player using Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "spotify",
+    "clone",
+    "music",
+    "express",
+    "nodejs"
+  ],
+  "author": "Vansh Bhatt",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
+
