@@ -4,7 +4,7 @@ Welcome to **WeTunes**, a sleek and responsive music streaming web app inspired 
 
 > 🔗 **Live Demo:** [https://wetunes.onrender.com/](https://wetunes.onrender.com/)
 
----
+
 
 ## 🚀 Features
 
@@ -16,7 +16,7 @@ Welcome to **WeTunes**, a sleek and responsive music streaming web app inspired 
 - 📱 **Fully responsive** for all screen sizes  
 - ☁️ **Cloud-based audio hosting** with **Cloudinary**
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -24,7 +24,7 @@ Welcome to **WeTunes**, a sleek and responsive music streaming web app inspired 
 |--------------|----------------|----------------|------------------|
 | HTML, CSS, JS | Node.js, Express | Render (Free Tier) | Cloudinary (Free Tier) |
 
----
+
 
 ## 📁 Folder Structure
 
@@ -41,7 +41,7 @@ WeTunes/
 └── README.md
 ```
 
----
+
 
 ## 🧠 How It Works
 
@@ -50,7 +50,7 @@ WeTunes/
 - Playlist metadata (`info.json`) is dynamically fetched and rendered.
 - On clicking a playlist card, songs load and stream directly from their Cloudinary URLs.
 
----
+
 
 ## 🌐 Live Preview
 
@@ -64,7 +64,7 @@ WeTunes/
 ![image](https://github.com/user-attachments/assets/c602bfed-64e0-4c6d-846a-29b322e84db5)
 
 
----
+
 
 ## ⚙️ Run Locally
 
@@ -85,7 +85,7 @@ WeTunes/
    ```
    Visit: [http://localhost:3000](http://localhost:3000)
 
----
+
 
 ## 🚀 Deployment Guide
 
@@ -101,7 +101,7 @@ WeTunes/
 - Use `video` resource type (for `.mp3`)  
 - Copy secure URLs & link them in `script.js` or via `meta.json`
 
----
+
 
 ## ✨ Future Enhancements
 
@@ -110,13 +110,13 @@ WeTunes/
 - 📱 PWA (Progressive Web App) support  
 - 🗂️ Admin dashboard to upload/edit/delete tracks
 
----
+
 
 ## 📜 License
 
 **MIT License** – Use it freely with attribution!
 
----
+
 
 ## 🙌 Special Thanks
 
@@ -124,7 +124,7 @@ WeTunes/
 - 🌐 [Render](https://render.com/)
 - ☁️ [Cloudinary](https://cloudinary.com/)
 
----
+
 
 ## 🤝 Connect
 
@@ -133,6 +133,6 @@ WeTunes/
 💻 GitHub: [github.com/your-username](https://github.com/your-username)  
 🎓 BTech CSE – UPES Dehradun
 
----
 
->``` 🎶 _Stream. Play. Repeat. Welcome to your very own web music experience with **WeTunes**._```
+
+> 🎶 _Stream. Play. Repeat. Welcome to your very own web music experience with **WeTunes**._
