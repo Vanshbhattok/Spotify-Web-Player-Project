@@ -55,10 +55,14 @@ WeTunes/
 ## 🌐 Live Preview
 
 🖥️ **Desktop View**  
-![Desktop View](https://res.cloudinary.com/dd4repvz4/image/upload/v1751300000/demo/desktop.png)
 
-📱 **Mobile View**  
-![Responsive View](https://res.cloudinary.com/dd4repvz4/image/upload/v1751300000/demo/responsive.png)
+![image](https://github.com/user-attachments/assets/6a131468-bf0e-4e6d-a284-2b8fff4acf79)
+
+
+📱 **Mobile View** 
+
+![image](https://github.com/user-attachments/assets/c602bfed-64e0-4c6d-846a-29b322e84db5)
+
 
 ---
 
@@ -131,4 +135,4 @@ WeTunes/
 
 ---
 
-> 🎶 _Stream. Play. Repeat. Welcome to your very own web music experience with **WeTunes**._
+>``` 🎶 _Stream. Play. Repeat. Welcome to your very own web music experience with **WeTunes**._```
