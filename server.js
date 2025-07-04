@@ -3,8 +3,8 @@ const fs = require('fs');
 const path = require('path');
 const cors = require('cors');
 const app = express();
-//const PORT = process.env.PORT || 3000;
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3000;
+//const PORT = process.env.PORT || 5000;
 
 // Enable CORS if needed (for frontend-backend separation)
 app.use(cors());
@@ -45,12 +45,12 @@ app.get('/api/info/:folder', (req, res) => {
     }
 });
 
-// Start the server
-//app.listen(PORT, () => {
-   // console.log(`✅ Server running at http://localhost:${PORT}`);
-//});
-
-app.listen(PORT, '0.0.0.0', () => {
-  console.log(`Server is running on port ${PORT}`);
+Start the server
+app.listen(PORT, () => {
+   console.log(`✅ Server running at http://localhost:${PORT}`);
 });
+
+/*app.listen(PORT, '0.0.0.0', () => {
+  console.log(`Server is running on port ${PORT}`);
+});*/
 
