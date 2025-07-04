@@ -45,7 +45,7 @@ app.get('/api/info/:folder', (req, res) => {
     }
 });
 
-Start the server
+//Start the server
 app.listen(PORT, () => {
    console.log(`✅ Server running at http://localhost:${PORT}`);
 });
