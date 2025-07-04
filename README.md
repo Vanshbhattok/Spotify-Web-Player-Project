@@ -2,9 +2,9 @@
 
 Welcome to **WeTunes**, a sleek and responsive music streaming web app inspired by Spotify. Built with **HTML, CSS, JavaScript, and Node.js**, this project lets you experience seamless music playback powered by **Cloudinary-hosted audio** and deployed with 💻 **Render**.
 
-> 🔗 **Live Demo:** [https://wetunes.onrender.com/](https://wetunes.onrender.com/)
-> 🔗 **Live Demo:** [https://wetunes.onrender.com](https://wetunes-online-web-player-production.up.railway.app/)
-> 🔗 **Live Demo:** [https://wetunes.onrender.com/](https://wetunes.onrender.com/)
+- 🔗 **Live Demo:** (https://we-tunes-online-web-player.vercel.app/)
+- 🔗 **Live Demo:** (https://wetunes-online-web-player-production.up.railway.app/)
+- 🔗 **Live Demo:** (https://wetunes.onrender.com/)
 
 
 
