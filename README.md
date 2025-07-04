@@ -134,7 +134,7 @@ WeTunes/
 
 **👤 Vansh Bhatt**  
 📧 Email: [vanshbhattok@gmail.com](mailto:vanshbhattok@gmail.com)  
-💻 GitHub: [github.com/your-username](https://github.com/your-username)  
+💻 GitHub: [github.com/your-username](https://github.com/vanshbhattok)  
 🎓 BTech CSE – UPES Dehradun
 
 
