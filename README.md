@@ -22,9 +22,9 @@ Welcome to **WeTunes**, a sleek and responsive music streaming web app inspired 
 
 ## 🛠️ Tech Stack
 
-| Frontend     | Backend        | Hosting (App) | Media Hosting   |
-|--------------|----------------|----------------|------------------|
-| HTML, CSS, JS | Node.js, Express | Render (Free Tier) | Cloudinary (Free Tier) |
+| Frontend     | Backend        |              Hosting (App)              | Media Hosting   |
+|--------------|----------------|-----------------------------------------|------------------|
+| HTML, CSS, JS | Node.js, Express | Vercel, Railway, Render (Free Tiers) | Cloudinary (Free Tier) |
 
 
 
@@ -48,7 +48,7 @@ WeTunes/
 ## 🧠 How It Works
 
 - Express serves static frontend files from the `public/` folder.
-- Songs are hosted on **Cloudinary** to avoid large file handling on GitHub or Render.
+- Songs are hosted on **Cloudinary** to avoid large file handling on GitHub or Vercel, Railway & Render.
 - Playlist metadata (`info.json`) is dynamically fetched and rendered.
 - On clicking a playlist card, songs load and stream directly from their Cloudinary URLs.
 
@@ -91,8 +91,10 @@ WeTunes/
 
 ## 🚀 Deployment Guide
 
-### ✅ App Hosting – Render
+### ✅ App Hosting – Vercel , Railway & Render
 - Push project (without `songs/`) to GitHub
+- Go to [Vercel](https://vercel.com/):  
+- Go to [Railway](https://railway.com/):  
 - Go to [Render](https://render.com/):  
   - New Web Service → Connect GitHub Repo
   - **Build Command:** `npm install`  
